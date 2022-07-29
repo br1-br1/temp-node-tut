@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bootstrap": "4.6",
+    "lodash": "^4.17.21"
+  }
+}
